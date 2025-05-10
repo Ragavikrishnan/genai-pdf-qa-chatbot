@@ -74,3 +74,4 @@ Document Retrieved for the Raised Question:
 
 ### RESULT:
 A PDF-based chatbot was successfully created using LangChain. It was able to retrieve relevant information from the document and answer user questions accurately.
+                
